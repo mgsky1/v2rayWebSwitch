@@ -1,5 +1,6 @@
 <?php
     require("check.php");
-    exec("taskkill -f -im wv2ray.exe",$data);
+    $cmd = "sudo service v2ray stop";
+    exec($cmd,$data);
     echo "OK";
 ?>
