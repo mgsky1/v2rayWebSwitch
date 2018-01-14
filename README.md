@@ -6,7 +6,7 @@
 > * It can be deployed on Windows ONLY. If you use Linux, [click here](https://github.com/mgsky1/v2rayWebSwitch/tree/Linux-Version).
 > * Be sure your PHP Engine has authority to execute commands in exec() function.
 > * It is degined for ONE v2ray server in your remote computer.
-> * For **SECURITY** purpose, recommend you to replace **YOUR PASSWORD** and **YOUR SETTINGS** in code with your preference.
+> * For **SECURITY** purpose, recommend you to replace **YOUR PASSWORD** and **YOUR SETTINGS** in **check.php** and **login.php** with your preference.
 ## Screen Shots
 ![](http://xxx.fishc.com/album/201801/12/185716xefcccxrufbpc4ck.png)
 #
