@@ -9,8 +9,8 @@
 > * You may modify **wv2ray.exe** absolute executable path in **startup.php**.
 > * For **SECURITY** purpose, recommend you to replace **YOUR PASSWORD** and **YOUR SETTINGS** in **check.php** and **login.php** with your preference.
 ## Screen Shots
-![](http://xxx.fishc.com/album/201801/12/185716xefcccxrufbpc4ck.png)
+![](http://xxx.fishc.org/album/201801/12/185716xefcccxrufbpc4ck.png)
 #
-![](http://xxx.fishc.com/album/201801/12/185718loo8u00epglgg7ae.png)
+![](http://xxx.fishc.org/album/201801/12/185718loo8u00epglgg7ae.png)
 #
-![](http://xxx.fishc.com/album/201801/12/185719er9y3zx65xtc4hzr.png)
+![](http://xxx.fishc.org/album/201801/12/185719er9y3zx65xtc4hzr.png)
